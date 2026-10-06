@@ -1,2 +1,2 @@
-# TercerParcial_ProgramacionPython_semestre_02_2026
-Recorrer el contenido
+# Tercer Parcial Bio-PythonV1
+Aplicación para verificar lo aprendido en el desarrollo temático del curso.
