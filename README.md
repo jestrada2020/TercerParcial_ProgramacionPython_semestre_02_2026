@@ -1,0 +1,2 @@
+# TercerParcial_ProgramacionPython_semestre_02_2026
+Recorrer el contenido
